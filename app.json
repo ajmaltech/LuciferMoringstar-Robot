@@ -62,16 +62,8 @@
             "description": "Mongodb",
             "value": ""
         },
-        "SPELL_MODE": {
-            "description": "Spelling Mode on or off",
-            "value": "on",
-            "required": true
-        },
-        "SPELL_MODE_TEXT": {
-            "description": "Seplling Mode Text For More Info Check Readme.md",
-            "value": "",
-            "required": true
-        },
+        
+        
         "LOG_CHANNEL": {
             "description": "Log Channel Use Private Channel Id -100×××× from @MT_ID_Bot",
             "value": ""
